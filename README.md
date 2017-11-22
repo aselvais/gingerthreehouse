@@ -1,4 +1,5 @@
-#gingerthreehouse
+Ginger Three House
+==================
 
 Boiler plate based on threejs-starter-kit.
 After cloning install all node dependencies.
